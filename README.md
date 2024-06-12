@@ -1,2 +1,2 @@
 # gitlearningrepo
-this repo is a part of learning
+this repo is a part of reading
